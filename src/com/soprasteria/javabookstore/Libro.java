@@ -16,6 +16,7 @@ public class Libro {
 		double prezzoScontato = prezzo - prezzoDaSottrarre;
 		
 		System.out.println("Il prezzo iniziale del libro è: " + prezzo);
+		System.out.println("Lo sconto è del " + sconto + "%");
 		System.out.println("Il prezzo scontato del libro è: " + prezzoScontato);
 	}
 
