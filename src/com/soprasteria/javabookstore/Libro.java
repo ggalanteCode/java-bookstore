@@ -6,6 +6,7 @@ public class Libro {
 		String titolo, editore, lingua, isbn;
 		int numPagine;
 		double peso, prezzo;
+		
 	}
 
 }
